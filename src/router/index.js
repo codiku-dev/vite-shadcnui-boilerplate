@@ -1,1 +1,3 @@
-//for routing
+export const ROUTES = Object.freeze({
+  home: "/",
+});
